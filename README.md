@@ -1,22 +1,9 @@
 [![MastHead](https://user-images.githubusercontent.com/47398784/122943065-fbdb7f80-d376-11eb-91f6-eeef99fd4425.jpg)](https://praveen.science)
 
-### Hi there, I'm [Javier!](https://hemant.codes) 👋 
-<br/>
-<a href="https://twitter.com/javier_lopezzz">
-  <img align="left" alt="Twitter" width="23px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/javierlopeziniesta/">
-  <img align="left" alt="Linkedin" width="22px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg" />
-</a>
-<a href="https://t.me/iniesta_99">
-  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" />
-</a>
-<a href="https://www.instagram.com/iniesta_99/">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg" />
-</a>
-<br><br>
+<!-- ### Hi there, I'm [Javier!](https://hemant.codes) 👋 
+ -->
 
-<h2 align="left">⚡ Github Stats ⚡</h2>
+### ⚙️⚡ &nbsp;GitHub Analytics
 <p align=center>
   <div align=center>
     <a>
@@ -29,3 +16,21 @@
   <br>
 </p>
 
+<br/>
+<br><br><br><br><br>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<a href="https://twitter.com/javier_lopezzz">
+  <img align="left" alt="Twitter" width="23px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/javierlopeziniesta/">
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg" />
+</a>
+<a href="https://t.me/iniesta_99">
+  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" />
+</a>
+<a href="https://www.instagram.com/iniesta_99/">
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg" />
+</a>
