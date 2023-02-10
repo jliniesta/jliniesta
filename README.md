@@ -16,9 +16,6 @@
   </div>
 </p>
 
-<br><br>
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/javierlopeziniesta/">
